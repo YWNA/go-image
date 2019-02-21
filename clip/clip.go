@@ -2,7 +2,7 @@ package clip
 
 import "fmt"
 
-func resize(name string) string {
+func Resize(name string) string {
 	fmt.Println(name)
 	return name
 }
